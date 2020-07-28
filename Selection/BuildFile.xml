@@ -1,0 +1,30 @@
+<use name="FWCore/Framework"/>
+<use name="FWCore/PluginManager"/>
+<use name="FWCore/ParameterSet"/>
+<use name="CommonTools/UtilAlgos"/>
+<use name="RecoEcal/EgammaCoreTools"/>
+<use name="RecoEgamma/EgammaTools"/>
+<use name="RecoTauTag/TauTagTools"/>
+<use name="TrackingTools/TransientTrack"/>
+<use name="TrackingTools/Records"/>
+<use name="TrackingTools/IPTools"/>
+<use name="DataFormats/PatCandidates"/>
+<use name="DataFormats/EgammaCandidates"/>
+<use name="RecoEgamma/ElectronIdentification"/>
+<use name="DataFormats/JetReco"/>
+<use name="MagneticField/Records"/>
+<use name="MagneticField/Engine"/>
+<use name="DataFormats/Scalers"/>
+<use name="boost"/>
+<use name="PhysicsTools/UtilAlgos"/>
+<use name="PhysicsTools/PatUtils"/>
+<use name="PhysicsTools/PatAlgos"/>
+<use name="PhysicsTools/Utilities"/>
+<use name="FWCore/ServiceRegistry"/>
+<use name="CondFormats/JetMETObjects"/>
+<use name="JetMETCorrections/Objects"/>
+<use name="JetMETCorrections/Modules"/>
+<use name="root"/>
+<export>
+  <lib   name="1"/>
+</export>

@@ -1,0 +1,22 @@
+<lcgdict>
+<class name="std::map<int,std::vector<int> >"/>
+<class name="std::pair<float, std::string>"/>
+<class name="std::vector<std::pair<float, std::string> >"/>
+
+<class name="MyEvent"/>
+<class name="MyVertex"/>
+<class name="MyJet"/>
+<class name="MyMET"/>
+<class name="MyElectron"/>
+<class name="MyMuon"/>
+<class name="SampleInfo"/>
+
+<class name="std::vector<MyVertex>"/>
+<class name="std::vector<MyJet>"/>
+<class name="std::vector<MyMET>"/>
+<class name="std::vector<MyElectron>"/>
+<class name="std::vector<MyMuon>"/>
+<class name="std::vector<ROOT::Math::LorentzVector<ROOT::Math::PxPyPzE4D<double> > >"/>
+
+
+</lcgdict>
